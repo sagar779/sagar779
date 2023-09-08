@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagarrauthan6" target="blank"><img src="https://img.shields.io/twitter/follow/sagarrauthan6?logo=twitter&style=for-the-badge" alt="sagarrauthan6" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Advance DSA**
 
 - 🌱 I’m currently learning **Next.js, SQL ,DSA**
 
